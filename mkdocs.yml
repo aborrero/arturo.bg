@@ -1,0 +1,7 @@
+---
+site_name: arturo.bg
+site_url: https://arturo.bg/
+extra:
+  homepage: https://arturo.bg/
+theme:
+  name: material
